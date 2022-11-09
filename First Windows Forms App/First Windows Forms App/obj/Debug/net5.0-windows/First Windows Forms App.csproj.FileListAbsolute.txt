@@ -1,0 +1,18 @@
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\bin\Debug\net5.0-windows\First Windows Forms App.exe
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\bin\Debug\net5.0-windows\First Windows Forms App.deps.json
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\bin\Debug\net5.0-windows\First Windows Forms App.runtimeconfig.json
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\bin\Debug\net5.0-windows\First Windows Forms App.runtimeconfig.dev.json
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\bin\Debug\net5.0-windows\First Windows Forms App.dll
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\bin\Debug\net5.0-windows\ref\First Windows Forms App.dll
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\bin\Debug\net5.0-windows\First Windows Forms App.pdb
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First Windows Forms App.csproj.AssemblyReference.cache
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First_Windows_Forms_App.Box.resources
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First Windows Forms App.csproj.GenerateResource.cache
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First Windows Forms App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First Windows Forms App.AssemblyInfoInputs.cache
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First Windows Forms App.AssemblyInfo.cs
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First Windows Forms App.csproj.CoreCompileInputs.cache
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First Windows Forms App.dll
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\ref\First Windows Forms App.dll
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First Windows Forms App.pdb
+C:\Users\Hamdoud\source\repos\First Windows Forms App\First Windows Forms App\obj\Debug\net5.0-windows\First Windows Forms App.genruntimeconfig.cache
